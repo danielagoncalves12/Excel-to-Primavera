@@ -1,0 +1,18 @@
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\bin\Debug\Excel to Primavera.exe.config
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\bin\Debug\Excel to Primavera.exe
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\bin\Debug\Excel to Primavera.pdb
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\obj\Debug\Excel to Primavera.csprojAssemblyReference.cache
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\obj\Debug\Excel_to_Primavera.Form1.resources
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\obj\Debug\Excel_to_Primavera.Properties.Resources.resources
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\obj\Debug\Excel to Primavera.csproj.GenerateResource.cache
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\obj\Debug\Excel to Primavera.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\obj\Debug\Excel to Primavera.exe
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\obj\Debug\Excel to Primavera.pdb
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\bin\Debug\ExcelDataReader.dll
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\bin\Debug\ExcelDataReader.pdb
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\bin\Debug\ExcelDataReader.xml
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\obj\Debug\Excel to Primavera.csproj.ResolveComReference.cache
+C:\Users\Daniela\source\repos\Excel to Primavera\Excel to Primavera\obj\Debug\Excel to Primavera.csproj.CopyComplete
